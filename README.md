@@ -28,3 +28,5 @@
 | Медианная площадь | 42.2 га |
 | Средний NDVI | 0.625 |
 | Высокая вегетация (NDVI ≥ 0.6) | 59% полей |
+
+*При отсутсвии возможности просмотра файла `analys.ipynb` - перейти для просмотра на [githab.dev](https://github.dev/seniaVV/analys_sputnik_data/blob/main/analys.ipynb)*
